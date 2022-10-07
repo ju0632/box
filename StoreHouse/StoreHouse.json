@@ -1,0 +1,22 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "1号仓库",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json"
+        },
+        {
+            "sourceName": "3公众号资源",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse3.json"
+            //公众号资源
+        },
+        {
+            "sourceName": "4号仓库",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse4.json"
+        },
+        {
+            "sourceName": "19号仓库",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
+            //NSFW
+        }
+    ]
+}

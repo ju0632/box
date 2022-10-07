@@ -1,0 +1,145 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "1号仓库",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json"
+        },
+        {
+            "sourceName": "19号仓库",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
+            //NSFW
+        },
+        {
+            "sourceName": "云星日记_家庭版",
+            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8"
+            //家庭版纯绿色，电影电视剧综艺等
+            //公众号【云星日记】
+        },
+        {
+            "sourceName": "云星日记_阿里套餐/推送磁力小纸条",
+            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/ali.m3u8"
+            //阿里套餐/推送磁力小纸条等  
+            //公众号【云星日记】
+        },
+        {
+            "sourceName": "云星日记_哔哩套餐",
+            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/bili.json"
+            //哔哩套餐/演唱会/戏曲/学堂等
+            //公众号【云星日记】
+        },
+        {
+            "sourceName": "刚佬（刚刚）",
+            "sourceUrl": "http://刚刚.live/猫"
+            //刚佬（刚刚）
+            //内涵多条线路/持续维护
+        },
+        {
+            "sourceName": "☀️太阳仓库",
+            "sourceUrl": "http://miaotvs.cn/osc"
+            //内涵多条线路/持续维护
+            //☀️太阳
+        },
+        {
+            "sourceName": "🤪神器推送",
+            "sourceUrl": "https://神器每日推送.tk/pz.json"
+            //内涵多条线路/持续维护
+            //🤪神器推送
+        },
+        {
+            "sourceName": "🖥影视酷",
+            "sourceUrl": "http://js.134584.xyz/json/pp87.json"
+            //内涵多条线路/持续维护
+            //🖥影视酷
+        },
+        {
+            "sourceName": "🍆CH猫友️",
+            "sourceUrl": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
+            //内涵多条线路/持续维护
+            //🍆CH猫友️
+        },
+        {
+            "sourceName": "🕺潇洒️",
+            "sourceUrl": "https://download.kstore.space/download/2863/01.txt"
+            // 内涵多条线路/持续维护  
+            // 🕺潇洒️
+        },
+        {
+            "sourceName": "🥦dxawi/github️",
+            "sourceUrl": "https://dxawi.github.io/0/0.json"
+            //内涵多条线路/持续维护
+            //🥦dxawi/github️
+        },
+        {
+            "sourceName": "🍅agit/branch️",
+            "sourceUrl": "https://agit.ai/n/b/raw/branch/a/b/c.json"
+            //内涵多条线路/持续维护
+            //🍅agit/branch️
+        },
+        {
+            "sourceName": "内涵仓库1",
+            "sourceUrl": "https://liu673cn.github.io/box/m.json"
+            //内涵多条线路/持续维护
+            //待认领
+        },
+        {
+            "sourceName": "内涵仓库2",
+            "sourceUrl": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json  "
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "🍸老刘备",
+            "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json"
+            //内涵多条线路/持续维护  
+            //🍸老刘备
+        },
+        {
+            "sourceName": "🌙月光宝盒",
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"
+            //内涵多条线路/持续维护  
+            //🌙月光宝盒
+        },
+        {
+            "sourceName": "内涵仓库3",
+            "sourceUrl": "http://byyds.top/w.txt"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "内涵仓库4",
+            "sourceUrl": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "☀️星辰",
+            "sourceUrl": "http://47.242.90.42:8888/down/BJZPa8THuiE9"
+            //内涵多条线路/持续维护  
+            //☀️星辰
+        },
+        {
+            "sourceName": "内涵仓库5",
+            "sourceUrl": "https://wds.ecsxs.com/223843.txt"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "内涵仓库6",
+            "sourceUrl": "https://dxawi.github.io/0/0.json"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "内涵仓库7",
+            "sourceUrl": "https://pqu.cn/Mr93fk"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "sourceName": "内涵仓库8",
+            "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json"
+            //内涵多条线路/持续维护
+            //待认领
+        }
+    ]
+}

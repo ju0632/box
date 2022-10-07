@@ -1,0 +1,31 @@
+//公众号分享
+{
+    "urls": [
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🐭神器每日推送"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐰吾爱️"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐆云星家庭版"
+            //家庭版纯绿色，电影电视剧综艺等
+            //公众号【云星日记】
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🐟云星哔哩"
+            //哔哩套餐/演唱会/戏曲/学堂等
+            //公众号【云星日记】
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐅云星阿里"
+            //阿里套餐/推送磁力小纸条等  
+            //公众号【云星日记】
+        }
+    ]
+}
