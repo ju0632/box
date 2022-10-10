@@ -12,7 +12,8 @@
 
 # pluto.player
 
-+ [道长](http://cms.nokia.press/config/2)
++ [道长仓库](https://gitcode.net/qq_32394351/dr_py)[道长](http://cms.nokia.press/config/2)
++ [影魔](https://github.com/ShadowDemon1997/CatVodSpiderJS)
 + [小雅](http://43.139.29.179:5705/config/2)
 + [goorm](http://43.200.117.188:58283/config/2)
 + [腾讯云](http://106.53.231.156:5705/config/2)
