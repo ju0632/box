@@ -12,7 +12,7 @@
             //网络收集资源
         },
         {
-            "sourceName": "3_公众号资源",
+            "sourceName": "3_公众号源",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse3.json"
             //公众号资源
         },
@@ -27,7 +27,7 @@
             //自建资源
         },
         {
-            "sourceName": "19_自建19",
+            "sourceName": "19_自建18+",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
             //自建_NSFW
         }

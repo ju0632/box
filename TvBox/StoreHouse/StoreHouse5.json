@@ -5,6 +5,11 @@
         {
             "name": "🐧复刻_CH猫友",
             "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse5-1.json"
+        },
+        //复刻_Yoursmile
+        {
+            "name": "🐧复刻_Yoursmile",
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse5-2.json"
         }
     ]
 }
