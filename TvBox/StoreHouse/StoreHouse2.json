@@ -1,3 +1,4 @@
+//StoreHouse1_网络收集资源
 {
     "urls": [
         //StoreHouse1_网络收集资源_精选
@@ -78,8 +79,6 @@
             "name": "🎁伍佰园"
         },
         //StoreHouse2_网络收集资源
-        
-
         //评分_5_自建
         {
             "name": "☀️星辰😍",
@@ -139,9 +138,7 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
             "name": "学习之路"
         },
-        
         //评分_3_外链
-        
         //评分_2_文件
         {
             "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
@@ -160,10 +157,6 @@
             "name": "💋木极"
         },
         //评分_2_反爬
-
-        
-
-
         //StoreHouse3_公众号资源
         {
             "url": "https://神器每日推送.tk/pz.json",
@@ -187,7 +180,6 @@
             //哔哩套餐/演唱会/戏曲/学堂等
             //公众号【云星日记】
         }
-        
     ],
     //NSFW
     "NSFW": [
@@ -211,7 +203,6 @@
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
             "name": "🐎18+"
         }
-        
     ],
     //NSFW_删库
     "NSFW_Del": [
@@ -236,13 +227,9 @@
             "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
             "name": "🦒18+"
         }
-
     ],
     //未验证
-    "Not_Verified": [
-
-    ],
-
+    "Not_Verified": [],
     //更新不及时
     "Not_Timely": [
         {
@@ -250,7 +237,6 @@
             "url": "https://raw.iqiq.io/chengxueli818913/TVBox/main/sc.json",
             "name": "🐙chengxueli"
         },
-
     ],
     //排除
     "exclude": [
@@ -260,9 +246,7 @@
             //内涵多条线路/持续维护  
             //待认领
         }
-
     ],
-
     //无法访问
     "cannot": [
         {
@@ -297,7 +281,5 @@
             //内涵多条线路/持续维护  
             //待认领⛸🍫
         }
-
-
     ]
 }
