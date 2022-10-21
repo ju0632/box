@@ -6,8 +6,14 @@
 
 
 # tvbox多仓
-+ [多仓](http://tv.to51.cn/TvBox/StoreHouse/StoreHouse.json)
-+ [子仓](http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json)
++ [多仓](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json)
++ [子仓_1_网收精选](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse1.json)
+
++ [子仓_2_网络收集](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse2.json)
++ [子仓_3_公众号资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse3.json)
++ [子仓_4_网收NSFW](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse4.json)
++ [子仓_5_自建资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse5.json)
++ [子仓_19_自建18+](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse19.json)
 
 
 # pluto.player
@@ -30,7 +36,7 @@
 > + https://raw.githubusercontent.com/ → https://raw.iqiq.io/
 > + https://raw.githubusercontent.com → https://raw.staticdn.net/
 > + https://raw.githubusercontent.com/ → https://raw.githubusercontentS.com/
-># Github 反代
+> # Github 反代
 >> + ## Github 反代_韩国
 >> + https://raw.githubusercontent.com/ → https://ghproxy.com/https://raw.githubusercontent.com/
 >> + https://raw.githubusercontent.com/ → https://ghproxy.net/https://raw.githubusercontent.com/  
@@ -45,21 +51,21 @@
 >> + https://raw.githubusercontent.com/ → https://raw.xn--gzu630h.xn--kpry57d/https://raw.githubusercontent.com/
 >> + https://raw.githubusercontent.com/ → https://raw.xn--p8jhe.tw/https://raw.githubusercontent.com/
 >> + https://raw.githubusercontent.com/ → https://xn--yfr044l.xn--m7r412advb92j21st65a.tk/https://raw.githubusercontent.com/
-># 主要链接
->+ 香港  
->https://raw.iqiq.io/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+> # 主要链接
+> + 香港  
+> https://raw.iqiq.io/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
 >  
->+ 新加坡  
->https://raw.kgithub.com/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+> + 新加坡  
+> https://raw.kgithub.com/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
 >  
->+ 日本  
->https://gcore.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
->https://fastly.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
->https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
->  https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
+> + 日本  
+> https://gcore.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
+> https://fastly.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
+> https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
+> https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
 >
 > # Github 静态加速  
 > https://purge.jsdelivr.net/gh/ju0632/box@main/
->https://cdn.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
->https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
+> https://cdn.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json  
+> https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json  
 >
