@@ -2,6 +2,19 @@
 {
     "spider": "http://tv.to51.cn/TvBox/StoreHouse/jar/XBiubiuLA4.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="
+                    ]
+                }
+            ]
+        }
+    ],
     "sites": [
         {
 			"key": "csp_biubiu_在线之家",
