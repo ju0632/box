@@ -7,6 +7,7 @@
 
 # tvbox多仓
 + [多仓](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json)
++ [多仓_GitCode](https://gitcode.net/qq102186180/box/-/raw/main/TvBox/StoreHouse/StoreHouse.json)
 + [子仓_1_网收精选](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse1.json)
 
 + [子仓_2_网络收集](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse2.json)
