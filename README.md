@@ -22,36 +22,48 @@
 
 
 # Github RAW加速
+https://github.com/ju0632/box/raw/main/TvBox/StoreHouse/StoreHouse.json
+https://raw.githubusercontent.com/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+
 + https://raw.githubusercontent.com/ → https://raw.fastgit.org/
 + https://raw.githubusercontent.com/ → https://raw.iqiq.io/
+
 + 韩国
 + https://raw.githubusercontent.com/ → https://ghproxy.com/https://raw.githubusercontent.com/
 + https://raw.githubusercontent.com/ → https://ghproxy.net/https://raw.githubusercontent.com/
 
-+ https://github.com/ → https://gh.api.99988866.xyz/https://github.com/
-+ https://github.com/ → https://git.yumenaka.net/https://github.com/
++ https://raw.githubusercontent.com/ → https://gh.api.99988866.xyz/https://raw.githubusercontent.com/
++ https://raw.githubusercontent.com/ → https://git.yumenaka.net/https://raw.githubusercontent.com/
 
-+ https://github.com/ → https://raw.xn--gzu630h.xn--kpry57d/https://github.com/
-+ https://github.com/ → https://raw.xn--p8jhe.tw/https://github.com/
-+ https://github.com/ → https://xn--yfr044l.xn--m7r412advb92j21st65a.tk/https://github.com/
-
-
++ https://raw.githubusercontent.com/ → https://raw.xn--gzu630h.xn--kpry57d/https://raw.githubusercontent.com/
++ https://raw.githubusercontent.com/ → https://raw.xn--p8jhe.tw/https://raw.githubusercontent.com/
++ https://raw.githubusercontent.com/ → https://xn--yfr044l.xn--m7r412advb92j21st65a.tk/https://raw.githubusercontent.com/
 
 
 
-Github RAW 加速服务
-源码 https://gitcdn.top/https://github.com/user/box/raw/main/m.json
-香港 https://raw.iqiq.io/user/name/main/m.json
-新加坡 https://raw.kgithub.com/user/name/main/m.json
+源码
+https://gitcdn.top/https://gitcdn.top/https://raw.githubusercontent.com/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+
+香港
+https://raw.iqiq.io/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+
+新加坡
+
+https://raw.kgithub.com/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+
 日本
-https://fastly.jsdelivr.net/gh/user/name@main/m.json
-https://cdn.staticaly.com/gh/user/name/main/m.json
-https://raw.fastgit.org/user/name/main/m.json
+https://gcore.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json
+https://fastly.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json
 
-https://gcore.jsdelivr.net/gh/user/name@main/m.json
-https://raw.githubusercontents.com/user/name/main/m.json
+https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+
+
+
+
 
 Github 静态加速
-https://cdn.staticaly.com/gh/user/name/main/m.json
-https://cdn.jsdelivr.net/gh/liu673cn/name@main/m.json
-https://purge.jsdelivr.net/gh/
+https://cdn.staticaly.com/gh/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json
+https://cdn.jsdelivr.net/gh/ju0632/box@main/TvBox/StoreHouse/StoreHouse.json
+
+https://purge.jsdelivr.net/gh/ju0632/box@main/
