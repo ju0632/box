@@ -1,145 +1,303 @@
 {
-    "storeHouse": [
+    "urls": [
+        //StoreHouse1_网络收集资源_精选
+        //评分_8_仓库
         {
-            "sourceName": "1号仓库",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json"
-        },
-        {
-            "sourceName": "19号仓库",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
-            //NSFW
-        },
-        {
-            "sourceName": "云星日记_家庭版",
-            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8"
-            //家庭版纯绿色，电影电视剧综艺等
-            //公众号【云星日记】
-        },
-        {
-            "sourceName": "云星日记_阿里套餐/推送磁力小纸条",
-            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/ali.m3u8"
-            //阿里套餐/推送磁力小纸条等  
-            //公众号【云星日记】
-        },
-        {
-            "sourceName": "云星日记_哔哩套餐",
-            "sourceUrl": "https://maoyingshi.cc/tvbox/云星日记/bili.json"
-            //哔哩套餐/演唱会/戏曲/学堂等
-            //公众号【云星日记】
-        },
-        {
-            "sourceName": "刚佬（刚刚）",
-            "sourceUrl": "http://刚刚.live/猫"
+            "name": "刚佬",
+            "url": "http://刚刚.live/猫"
             //刚佬（刚刚）
             //内涵多条线路/持续维护
         },
         {
-            "sourceName": "☀️太阳仓库",
-            "sourceUrl": "http://miaotvs.cn/osc"
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            //"url": "http://刚刚.live/gg.json",
+            "name": "😀刚刚4K"
+            //刚佬（刚刚）
+        },
+        {
+            "name": "☀️太阳仓库",
+            "url": "http://miaotvs.cn/osc"
+            //"url": "http://111.67.196.181/mtv/270.txt",
             //内涵多条线路/持续维护
             //☀️太阳
         },
         {
-            "sourceName": "🤪神器推送",
-            "sourceUrl": "https://神器每日推送.tk/pz.json"
-            //内涵多条线路/持续维护
-            //🤪神器推送
-        },
-        {
-            "sourceName": "🖥影视酷",
-            "sourceUrl": "http://js.134584.xyz/json/pp87.json"
-            //内涵多条线路/持续维护
-            //🖥影视酷
-        },
-        {
-            "sourceName": "🍆CH猫友️",
-            "sourceUrl": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
+            "name": "🍆CH猫友️",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
             //内涵多条线路/持续维护
             //🍆CH猫友️
         },
         {
-            "sourceName": "🕺潇洒️",
-            "sourceUrl": "https://download.kstore.space/download/2863/01.txt"
-            // 内涵多条线路/持续维护  
-            // 🕺潇洒️
+            "name": "🍸老刘呗",
+            "url": "https://raw.liucn.cc/box/m.json"
+            //"url": "https://liu673cn.github.io/box/m.json"
+            //"url": "https://raw.iqiq.io/liu673cn/box/main/m.json"
+            //内涵多条线路/持续维护  
+            //🍸老刘呗
         },
         {
-            "sourceName": "🥦dxawi/github️",
-            "sourceUrl": "https://dxawi.github.io/0/0.json"
-            //内涵多条线路/持续维护
-            //🥦dxawi/github️
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            //"url": "https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt"
+            "name": "🐵Yoursmile7"
         },
         {
-            "sourceName": "🍅agit/branch️",
-            "sourceUrl": "https://agit.ai/n/b/raw/branch/a/b/c.json"
+            "url": "https://0a.fit/X000",
+            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",            
+            "name": "👣0000"
+        },
+        {
+            "url": "https://0a.fit/7777",
+            //"url": "https://gitee.com/y333/33/raw/3/3/2",
+            "name": "🐱7777"
+        },
+        {
+            "name": "🍅agit_branch️",
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
             //内涵多条线路/持续维护
             //🍅agit/branch️
         },
         {
-            "sourceName": "内涵仓库1",
-            "sourceUrl": "https://liu673cn.github.io/box/m.json"
+            "name": "🥦github️_dxawi",
+            //"url": "https://dxawi.github.io/0/0.json"
+            "url": "https://raw.iqiq.io/dxawi/0/main/0.json"
             //内涵多条线路/持续维护
-            //待认领
+            //🥦dxawi/github️
         },
         {
-            "sourceName": "内涵仓库2",
-            "sourceUrl": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json  "
-            //内涵多条线路/持续维护  
-            //待认领
+            "name": "🍅agit_1452635819",
+            "url": "https://agit.ai/1452635819/h/raw/branch/master/mao3"
+            //内涵多条线路/持续维护
+            //🍅agit/1452635819
         },
         {
-            "sourceName": "🍸老刘备",
-            "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json"
-            //内涵多条线路/持续维护  
-            //🍸老刘备
+            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+            "name": "🐽PinkBird"
         },
         {
-            "sourceName": "🌙月光宝盒",
-            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"
-            //内涵多条线路/持续维护  
-            //🌙月光宝盒
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "🎁伍佰园"
         },
+        //StoreHouse2_网络收集资源
+        
+
+        //评分_5_自建
         {
-            "sourceName": "内涵仓库3",
-            "sourceUrl": "http://byyds.top/w.txt"
-            //内涵多条线路/持续维护  
-            //待认领
-        },
-        {
-            "sourceName": "内涵仓库4",
-            "sourceUrl": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json"
-            //内涵多条线路/持续维护  
-            //待认领
-        },
-        {
-            "sourceName": "☀️星辰",
-            "sourceUrl": "http://47.242.90.42:8888/down/BJZPa8THuiE9"
+            "name": "☀️星辰😍",
+            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9"
             //内涵多条线路/持续维护  
             //☀️星辰
         },
         {
-            "sourceName": "内涵仓库5",
-            "sourceUrl": "https://wds.ecsxs.com/223843.txt"
-            //内涵多条线路/持续维护  
-            //待认领
+            "url": "http://152.136.125.181:81/MM/dianbos/xianlu00.json",
+            "name": "🐦影阁一️‍️"
         },
         {
-            "sourceName": "内涵仓库6",
-            "sourceUrl": "https://dxawi.github.io/0/0.json"
-            //内涵多条线路/持续维护  
-            //待认领
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "🐤影阁二"
         },
         {
-            "sourceName": "内涵仓库7",
-            "sourceUrl": "https://pqu.cn/Mr93fk"
-            //内涵多条线路/持续维护  
-            //待认领
+            "url": "http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+            "name": "️🦆影阁三"
         },
         {
-            "sourceName": "内涵仓库8",
-            "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json"
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieA.json",
+            "name": "🦅影阁四️"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "🛣军碟"
+        },
+        //评分_4_公服
+        {
+            "name": "🕺潇洒️",
+            "url": "https://download.kstore.space/download/2863/01.txt"
+            // 内涵多条线路/持续维护  
+            // 🕺潇洒️
+        },
+        {
+            "name": "🖥影视酷🚙",
+            "url": "http://js.134584.xyz/json/pp87.json"
             //内涵多条线路/持续维护
+            //🖥影视酷
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐰吾爱️"
+        },
+        {
+            "name": "🌙月光宝盒",
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"
+            //内涵多条线路/持续维护  
+            //🌙月光宝盒
+        },
+        {
+            "url": "https://0dlj.cn/丰富点",
+            //"url": "http://52bsj.vip:81/api/v3/file/get/2558/tvbox%E8%B5%84%E6%BA%90%E5%A4%9A.txt?sign=Ss6vTtDM2rnhEkl_X2vHteF9LyTXd_uejaj2LDbtwQM%3D%3A0",
+            "name": "🍠简单"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "学习之路"
+        },
+        
+        //评分_3_外链
+        
+        //评分_2_文件
+        {
+            "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
+            "name": "🐼猫影TV盒"
+        },
+        {
+            "url": "http://wp.anxwl.cn/down.php/279a2174e2ba2f0d34002af90e94ec2e.txt&zn777",
+            "name": "🧞‍♂️白菜"
+        },
+        {
+            "url": "https://out.zxglife.top/down.php/05ad8a16e71ebb56b4ff3d719ab3963f.txt&zn777",
+            "name": "👙外链"
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
+            "name": "💋木极"
+        },
+        //评分_2_反爬
+
+        
+
+
+        //StoreHouse3_公众号资源
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🐭神器推送"
+        },
+        {
+            "name": "云星_家庭",
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8"
+            //家庭版纯绿色，电影电视剧综艺等
+            //公众号【云星日记】
+        },
+        {
+            "name": "云星_阿里",
+            "url": "https://maoyingshi.cc/tvbox/云星日记/ali.m3u8"
+            //阿里套餐/推送磁力小纸条等  
+            //公众号【云星日记】
+        },
+        {
+            "name": "云星_哔哩",
+            "url": "https://maoyingshi.cc/tvbox/云星日记/bili.json"
+            //哔哩套餐/演唱会/戏曲/学堂等
+            //公众号【云星日记】
+        }
+        
+    ],
+    //NSFW
+    "NSFW": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "🦅影阁C"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieD.json",
+            "name": "🦅影阁D"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieE.json",
+            "name": "🦅影阁E"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieF.json",
+            "name": "🦅影阁F"
+        },
+        {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🐎18+"
+        }
+        
+    ],
+    //NSFW_删库
+    "NSFW_Del": [
+        {
+            "url": "https://gitea.com/z337898581/Yctv/raw/branch/main/学习资料.json",
+            "name": "学习资源",
+            "time": "2022-09-05 02:00:00"
+        },
+        {
+            "url": "http://mtw.so/5PGEEm",
+            "name": "🐘18+"
+        },
+        {
+            "url": "https://gitea.com/Mike906/zyk/raw/branch/main/m6-18.txt",
+            "name": "🏀18+"
+        },
+        {
+            "url": "https://gitea.com/study520x/18TVBox/raw/branch/main/FLJK4.txt",
+            "name": "🥣18+"
+        },
+        {
+            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+            "name": "🦒18+"
+        }
+
+    ],
+    //未验证
+    "Not_Verified": [
+
+    ],
+
+    //更新不及时
+    "Not_Timely": [
+        {
+            //"url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
+            "url": "https://raw.iqiq.io/chengxueli818913/TVBox/main/sc.json",
+            "name": "🐙chengxueli"
+        },
+
+    ],
+    //排除
+    "exclude": [
+        {
+            "name": "内涵仓库3",
+            "url": "http://byyds.top/w.txt"
+            //内涵多条线路/持续维护  
             //待认领
         }
+
+    ],
+
+    //无法访问
+    "cannot": [
+        {
+            "url": "http://dlj.bz/kjTAcf",
+            "name": "🐔TG/DIJ"
+        }
+    ],
+    //删库
+    "delete": [
+        {
+            "name": "内涵仓库2",
+            //"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json"
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "name": "内涵仓库4",
+            "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "name": "内涵仓库7",
+            "url": "https://pqu.cn/Mr93fk"
+            //内涵多条线路/持续维护  
+            //待认领
+        },
+        {
+            "name": "公众号_分享迷",
+            "url": "https://wds.ecsxs.com/223843.txt"
+            //内涵多条线路/持续维护  
+            //待认领⛸🍫
+        }
+
+
     ]
 }

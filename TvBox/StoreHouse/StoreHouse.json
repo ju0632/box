@@ -1,22 +1,35 @@
+//👜🦊🎁👀🦁🍍🐉🐵🐧
 {
     "storeHouse": [
         {
-            "sourceName": "1号仓库",
+            "sourceName": "1_网收精选",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json"
+            //网络收集资源_精选
         },
         {
-            "sourceName": "3公众号资源",
+            "sourceName": "2_网络收集",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse2.json"
+            //网络收集资源
+        },
+        {
+            "sourceName": "3_公众号资源",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse3.json"
             //公众号资源
         },
         {
-            "sourceName": "4号仓库",
+            "sourceName": "4_网收NSFW",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse4.json"
+            //网收NSFW
         },
         {
-            "sourceName": "19号仓库",
+            "sourceName": "5_自建资源",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse5.json"
+            //自建资源
+        },
+        {
+            "sourceName": "19_自建18+",
             "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
-            //NSFW
+            //自建_NSFW
         }
     ]
 }
