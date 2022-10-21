@@ -9,6 +9,7 @@
                     "name": "live",
                     "urls": [
                         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="
+                        //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vWW91cnNtaWxlL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlLnR4dA=="
                     ]
                 }
             ]
@@ -492,19 +493,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        }
-    ],
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
-                    ]
-                }
-            ]
         }
     ],
     "parses": [
