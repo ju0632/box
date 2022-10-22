@@ -75,12 +75,24 @@
         //StoreHouse_1网络收集_2聚合资源_
         //评分_7公云
         {
+            "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
+            "name": "🍘gitcode/kuukry"
+        },
+        {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
             "name": "🌹花花世界"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/haoh.txt",
             "name": "🦊三大网盘大全集"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/MMM.txt",
+            "name": "线路84"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/29333.txt",
+            "name": "👙猫不吃鱼"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt",
@@ -170,6 +182,62 @@
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
             "name": "线路50"
         },
+        {
+            "url": "https://agit.ai/lsk617/y/raw/branch/master/X.json",
+            "name": "线路67"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "线路68"
+        },
+        {
+            "url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json",
+            "name": "线路69"
+        },
+        {
+            "url": "https://agit.ai/leevi/apps/raw/branch/main/debug.json",
+            "name": "线路72"
+        },
+        {
+            "url": "https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json",
+            "name": "线路61"
+        },
+        {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "线路83"
+        },
+        {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "🧞线路4"
+        },
+        {
+            "url": "https://agit.ai/Gaytime/CC/raw/branch/master/1024.txt",
+            "name": "🐤线路5"
+        },
+        {
+            "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/Box.json",
+            "name": "🐤线路9"
+        },
+        {
+            "url": "https://agit.ai/767820774/h/raw/branch/master/mao3",
+            "name": "🐤线路11"
+        },
+        {
+            "url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json",
+            "name": "💒线路16"
+        },
+        {
+            "url": "https://agit.ai/zzzlllmmm1/TVBox-1/raw/branch/main/sc.json",
+            "name": "💒线路17"
+        },
+        {
+            "url": "https://agit.ai/767820774/ziyong2/raw/branch/master/33.txt",
+            "name": "💒线路18"
+        },
+        {
+            "url": "https://agit.ai/767820774/mao666/raw/branch/master/json/自用.json",
+            "name": "💒线路19"
+        },
         //评分_6公服
         {
             "url": "http://shuyuan.miaogongzi.net/shuyuan/1665728457.txt",
@@ -224,7 +292,36 @@
             "url": "http://0454dt.com/tvbox",
             "name": "线路29"
         },
+        {
+            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+            "name": "💒BD线路"
+        },
         //评分_3外链
+        {
+            "url": "http://api.xiaoz.fit/1.json",
+            "name": "线路51"
+        },
+        {
+            "url": "https://dlj2.cn/星辰影视",
+            "name": "线路55"
+        },
+        {
+            "url": "https://dlj2.cn/77",
+            "name": "线路56"
+        },
+        {
+            "url": "https://dlj2.cn/自用",
+            "name": "线路57"
+        },
+        {
+            "url": "https://dlj2.cn/ch",
+            "name": "线路58"
+        },
+        {
+            "url": "http://mtw.so/6cfhxt",
+            "name": "suanjin",
+            "time": "2022-08-26 02:00:00"
+        },
         {
             "url": "http://s.nxw.so/vip",
             "name": "💍自用1",
@@ -238,6 +335,10 @@
             "url": "https://84k.cn/tvmao",
             "name": "💍自用2",
             "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://0a.fit/自用",
+            "name": "线路78"
         },
         {
             "url": "https://0a.fit/8888",
@@ -297,6 +398,22 @@
             "name": "🖥影视酷🚙",
             "url": "http://js.134584.xyz/json/pp87.json"
         },
+        {
+            "url": "https://e40.cn/yyds",
+            "name": "线路64"
+        },
+        {
+            "url": "https://pastebin.com/raw/RAHbbAVa",
+            "name": "线路85"
+        },
+        {
+            "url": "https://ygyzy.github.io/api/box/box.json",
+            "name": "线路86"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "线路94"
+        },
         //评分_2文件
         {
             "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
@@ -321,6 +438,14 @@
         {
             "url": "https://apis.fanyeyun.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
             "name": "👙懒人影院7"
+        },
+        {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+            "name": "💒线路13"
+        },
+        {
+            "url": "https://demo.ifile.space/sdown/CXaaQlrMYw/391b50fc4bcded73f3fa72e16b015586ca3203ed/%E6%B5%8B%E8%AF%95ifile_9.16.txt",
+            "name": "线路73"
         },
         //评分_1反爬
         //评分_0未分类
@@ -404,14 +529,19 @@
         }
     ],
     //未验证
-    "Not_Verified": [],
+    "Not_Verified": [
+        {
+            "url": "http://118.107.41.200:8888/down/5jjLeRDhRj26",
+            "name": "app里提取"
+        }
+    ],
     //更新不及时
     "Not_Timely": [
         {
             //"url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
             "url": "https://raw.iqiq.io/chengxueli818913/TVBox/main/sc.json",
             "name": "🐙chengxueli"
-        },
+        }
     ],
     //排除
     "exclude": [
@@ -431,7 +561,7 @@
         {
             "url": "http://9xi4o.tk/0725.json",
             "name": "❤️一刀"
-        },
+        }
     ],
     //删库
     "delete": [
@@ -439,26 +569,32 @@
             "name": "内涵仓库2",
             //"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json"
             "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edjt.json"
-            //内涵多条线路/持续维护  
-            //待认领
         },
         {
             "name": "内涵仓库4",
             "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json"
-            //内涵多条线路/持续维护  
-            //待认领
         },
         {
             "name": "内涵仓库7",
             "url": "https://pqu.cn/Mr93fk"
-            //内涵多条线路/持续维护  
-            //待认领
         },
         {
             "name": "公众号_分享迷",
             "url": "https://wds.ecsxs.com/223843.txt"
-            //内涵多条线路/持续维护  
-            //待认领⛸🍫
+        },
+        {
+            "url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
+            "name": "wlyzh88",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/wlyzh88/MV/raw/branch/master/MV.json",
+            "name": "wlyzh88MV",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitee.com/jjjsndjdjjjjd/tv-storage/raw/master/tv.txt",
+            "name": "线路52"
         }
     ]
 }
