@@ -35,7 +35,7 @@
         },
         {
             "url": "https://0a.fit/X000",
-            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",            
+            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "👣0000"
         },
         {
@@ -64,6 +64,10 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🎁伍佰园"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
+            "name": "🌏大全接口"
         }
     ]
 }
