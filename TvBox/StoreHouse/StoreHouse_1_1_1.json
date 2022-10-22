@@ -5,16 +5,20 @@
         //评分_8长期维护
         {
             "url": "https://www.xueximeng.com/tvbox/py.json",
-            "name": "🌹PY版本央视大全"
+            "name": "🌹PY央视大全"
         },
         {
             "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
-            "name": "🥞PY最新大全"
+            "name": "🥞Py最新大全"
         },
         {
             //"url": "http://43.139.29.179:5705/config/2",
             "url": "http://101.34.67.237/config/2",
             "name": "小雅"
-        }
+        },
+        {
+            "url": "http://43.139.29.179:5705/config/1",
+            "name": "💒线路14"
+        },
     ]
 }
