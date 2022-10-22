@@ -1,35 +1,55 @@
-//👜🦊🎁👀🦁🍍🐉🐵🐧👙
+//👜🦊🎁👀🦁🧞‍♂️🍆👣🐵🐦🍸😀🐽🐼🐤☀️🌙🕺🐱🍍🥦🦆🍠🖥🚙🛣🐉🐵🐧👙😍💋⛸🐭🍫🍅🐔🐙🦒🥣🏀🐘🦅🐎
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
     "storeHouse": [
         {
-            "sourceName": "1_网收精选",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse1.json"
-            //网络收集资源_精选
+            "sourceName": "1_1_0_网收精选",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_1_0.json"
+            //1网络收集_1精选资源
         },
         {
-            "sourceName": "2_网络收集",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse2.json"
-            //网络收集资源
+            "sourceName": "1_2_0_网络收集",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_2_0.json"
+            //1网络收集_2聚合资源
         },
         {
-            "sourceName": "3_公众号源",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse3.json"
-            //公众号资源
+            "sourceName": "1_3_0_公众号源",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_3_0.json"
+            //1网络收集_3公众号资源
         },
         {
-            "sourceName": "4_网收NSFW",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse4.json"
-            //网收NSFW
+            "sourceName": "1_4_0_网收黄色",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_1_4_0.json"
+            //1网络收集_4黄色资源
         },
         {
-            "sourceName": "5_自建资源",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse5.json"
-            //自建资源
+            "sourceName": "5_1_0_自建资源",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0.json"
+            //5自建资源_1绿色资源
         },
         {
-            "sourceName": "19_自建18+",
-            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse19.json"
-            //自建_NSFW
+            "sourceName": "5_9_0_自建黄色",
+            "sourceUrl": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0.json"
+            //5自建资源_9黄色资源
         }
     ]
 }
+//1_网络收集
+//  1_精选资源
+//  2_聚合资源
+//  3_公众号资源
+//  4_黄色资源
+//    0_未分类
+//    1_分类1
+//    2_分类2
+//      1_列表1
+//      2_列表2
+
+//5_自建资源
+//  1_绿色资源
+//  9_黄色资源
+//    0_未分类
+//    1_分类1
+//    2_分类2
+//      1_列表1
+//      2_列表2
