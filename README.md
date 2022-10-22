@@ -8,13 +8,13 @@
 # tvbox多仓
 + [多仓](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse.json)
 + [多仓_GitCode](https://gitcode.net/qq102186180/box/-/raw/main/TvBox/StoreHouse/StoreHouse.json)
-+ [子仓_1_网收精选](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse1.json)
++ [子仓_1_网收精选](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_1_1_0.json)
 
-+ [子仓_2_网络收集](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse2.json)
-+ [子仓_3_公众号资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse3.json)
-+ [子仓_4_网收NSFW](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse4.json)
-+ [子仓_5_自建资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse5.json)
-+ [子仓_19_自建18+](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse19.json)
++ [子仓_2_网络收集](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_1_2_0.json)
++ [子仓_3_公众号资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_1_3_0.json)
++ [子仓_4_网收NSFW](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_1_4_0.json)
++ [子仓_5_自建资源](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_5_1_0.json)
++ [子仓_19_自建18+](https://raw.fastgit.org/ju0632/box/main/TvBox/StoreHouse/StoreHouse_5_9_0.json)
 
 
 # pluto.player
