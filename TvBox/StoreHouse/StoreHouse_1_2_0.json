@@ -3,7 +3,7 @@
 {
     "selected": [
         //StoreHouse_1网络收集_1精选资源_
-        //评分_8_仓库
+        //评分_8长期维护
         {
             "name": "刚刚",
             "url": "http://刚刚.live/猫"
@@ -35,7 +35,8 @@
         },
         {
             "url": "https://0a.fit/X000",
-            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",            
+            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
             "name": "👣0000"
         },
         {
@@ -64,11 +65,137 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🎁伍佰园"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/vpei/Free-TVUrl-Merge@main/out/tvbox.txt",
+            "name": "🌏大全接口"
         }
     ],
     "urls": [
         //StoreHouse_1网络收集_2聚合资源_
-        //评分_5_自建
+        //评分_7公云
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+            "name": "🌹花花世界"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/haoh.txt",
+            "name": "🦊三大网盘大全集"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt",
+            "name": "🌈N接口"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🍅小苹果"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
+            "name": "🦊人人影视"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视1.txt",
+            "name": "🐦人人影视1"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视2.txt",
+            "name": "🐍人人影视2"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视3.txt",
+            "name": "🦀人人影视3"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视4.txt",
+            "name": "🌳人人影视4"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视5.txt",
+            "name": "🍆人人影视5"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视6.txt",
+            "name": "🍇人人影视6"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视7.txt",
+            "name": "🥞人人影视频7"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt",
+            "name": "🍚学习教育课堂"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e4%bd%93%e8%82%b2%ef%b9%a0%e7%9b%b4%e6%92%ad.txt",
+            "name": "🏀体育直播"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt",
+            "name": "🎮休闲戏曲娱乐"
+        },
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
+            "name": "🍭美食大全"
+        },
+        {
+            "url": "https://agit.ai/1357712527/tvbox/raw/branch/master/TVBoxx.json",
+            "name": "🧞线路2"
+        },
+        {
+            "url": "https://agit.ai/zbweb/TVBOX/raw/branch/master/json/bcnet.json",
+            "name": "🧞线路3"
+        },
+        {
+            "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
+            "name": "🧞二刀"
+        },
+        {
+            "url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+            "name": "⛸懒人影视3🏹"
+        },
+        {
+            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
+            "name": "白嫖"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
+            "name": "线路42"
+        },
+        {
+            "url": "https://raw.fastgit.org/hjcmcn/z/main/16.json",
+            "name": "线路49"
+        },
+        {
+            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+            "name": "线路50"
+        },
+        //评分_6公服
+        {
+            "url": "http://shuyuan.miaogongzi.net/shuyuan/1665728457.txt",
+            "name": "🍄网盘高清"
+        },
+        //评分_5自建
+        {
+            "url": "http://刚刚.live/猫.json",
+            "name": "线路38"
+        },
+        {
+            "url": "http://刚刚.live/A佬",
+            "name": "线路47"
+        },
+        {
+            "url": "http://120.53.102.254/tvb/",
+            "name": "线路37"
+        },
+        {
+            "url": "https://pastebin.com/raw/FSLJXZN5",
+            "name": "线路45"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "🦆线路1"
+        },
         {
             "name": "☀️星辰😍",
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9"
@@ -93,14 +220,58 @@
             "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
             "name": "🛣军碟"
         },
-        //评分_4_公服
         {
-            "name": "🕺潇洒️",
-            "url": "https://download.kstore.space/download/2863/01.txt"
+            "url": "http://0454dt.com/tvbox",
+            "name": "线路29"
+        },
+        //评分_3外链
+        {
+            "url": "http://s.nxw.so/vip",
+            "name": "💍自用1",
+            "time": "2022-08-26 02:00:00"
         },
         {
-            "name": "🖥影视酷🚙",
-            "url": "http://js.134584.xyz/json/pp87.json"
+            "url": "http://c.nxw.so/6Jvi4",
+            "name": "线路27"
+        },
+        {
+            "url": "https://84k.cn/tvmao",
+            "name": "💍自用2",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://0a.fit/8888",
+            "name": "线路96"
+        },
+        {
+            "url": "https://0a.fit/2222",
+            "name": "线路97"
+        },
+        {
+            "url": "https://0dlj.cn/丰富点",
+            //"url": "http://52bsj.vip:81/api/v3/file/get/2558/tvbox%E8%B5%84%E6%BA%90%E5%A4%9A.txt?sign=Ss6vTtDM2rnhEkl_X2vHteF9LyTXd_uejaj2LDbtwQM%3D%3A0",
+            "name": "🍠简单"
+        },
+        {
+            "url": "https://0a.fit/CuSJy",
+            "name": "线路101"
+        },
+        {
+            "url": "http://52bsj.vip:98/sansan",
+            "name": "线路98"
+        },
+        {
+            "url": "http://52bsj.vip:98/6l",
+            "name": "线路99"
+        },
+        {
+            "url": "http://52bsj.vip:98/92",
+            "name": "线路100"
+        },
+        {
+            "url": "http://52bsj.vip:98/9c",
+            "name": "💍自用3",
+            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
@@ -111,16 +282,22 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"
         },
         {
-            "url": "https://0dlj.cn/丰富点",
-            //"url": "http://52bsj.vip:81/api/v3/file/get/2558/tvbox%E8%B5%84%E6%BA%90%E5%A4%9A.txt?sign=Ss6vTtDM2rnhEkl_X2vHteF9LyTXd_uejaj2LDbtwQM%3D%3A0",
-            "name": "🍠简单"
-        },
-        {
             "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
             "name": "学习之路"
         },
-        //评分_3_外链
-        //评分_2_文件
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "🏓魔力宝贝"
+        },
+        {
+            "name": "🕺潇洒️",
+            "url": "https://download.kstore.space/download/2863/01.txt"
+        },
+        {
+            "name": "🖥影视酷🚙",
+            "url": "http://js.134584.xyz/json/pp87.json"
+        },
+        //评分_2文件
         {
             "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
             "name": "🐼猫影TV盒"
@@ -136,8 +313,17 @@
         {
             "url": "https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
             "name": "💋木极"
-        }
-        //评分_2_反爬
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+            "name": "👙showbox"
+        },
+        {
+            "url": "https://apis.fanyeyun.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+            "name": "👙懒人影院7"
+        },
+        //评分_1反爬
+        //评分_0未分类
     ],
     //StoreHouse_1网络收集_3公众号资源_
     "WX_MP": [
@@ -241,7 +427,11 @@
         {
             "url": "http://dlj.bz/kjTAcf",
             "name": "🐔TG/DIJ"
-        }
+        },
+        {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "❤️一刀"
+        },
     ],
     //删库
     "delete": [
