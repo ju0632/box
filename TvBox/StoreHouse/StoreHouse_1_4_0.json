@@ -2,6 +2,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
     "urls": [
+        //StoreHouse_1网络收集_4黄色资源_
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "🦅影阁C",
@@ -23,78 +24,70 @@
             "time": "2022-10-23 17:42:28"
         },
         {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "飞机1",
+            "url": "https://0a.fit/bTVKL",
+            //"url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "🔗飞机1",
             "time": "2022-10-23 17:42:32"
         },
         {
             "url": "http://shuyuan.miaogongzi.net/shuyuan/1663651243.txt",
-            "name": "喵公子_1",
+            "name": "📀喵公子/1",
             "time": "2022-10-23 17:42:36"
         },
         {
             "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/ss.json",
-            "name": "Github_mmtekamu",
+            "name": "✍️Github/mmtekamu_SS",
             "time": "2022-10-23 17:42:39"
         },
         {
             "url": "https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json",
-            "name": "Github_mmtekamu",
+            "name": "✍️Github/mmtekamu_18",
             "time": "2022-10-23 17:42:42"
         },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.txt",
-            "name": "Github_chengxueli818913",
+            "name": "✍️Github/chengxueli818913",
             "time": "2022-10-23 17:42:45"
         },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json",
-            "name": "Github_chengxueli818913",
+            "name": "✍️Github/chengxueli818913_18",
             "time": "2022-10-23 17:42:49"
         },
         {
-            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
-            "name": "Github_zhanghong1983",
-            "time": "2022-10-23 17:42:52"
-        },
-        {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
-            "name": "agit.ai_guot54",
+            "name": "🤖agit.ai/guot54/PRO",
             "time": "2022-10-23 17:42:56"
         },
         {
-            "url": "http://api.xiaoz.fit/18.json",
-            "name": "飞机9",
-            "time": "2022-10-23 17:43:00"
-        },
-        {
             "url": "https://guot55.github.io/gg1/qh.json",
-            "name": "Github_gg1",
+            "name": "✍️Github/gg1",
+            //"name": "公众号/鸡你太美科技",
             "time": "2022-10-23 17:43:03"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
-            "name": "Github_zhanghong1983",
+            "name": "✍️Github/zhanghong1983_proxygr",
             "time": "2022-10-23 17:43:06"
         },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt",
-            "name": "Github_chengxueli818913",
+            "name": "✍️Github/chengxueli818913_福利接口",
             "time": "2022-10-23 17:43:11"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
-            "name": "Github_franksun1211",
+            "name": "✍️Github/franksun1211",
             "time": "2022-10-23 17:43:14"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/Guard-H/tvbox/main/cr/cr.json",
-            "name": "Github/Guard-H",
+            "name": "✍️Github/Guard-H",
             "time": "2022-10-23 15:47:27"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/h",
-            "name": "Github/2hacc",
+            "name": "✍️Github/2hacc",
             "time": "2022-10-23 15:47:17"
         }
     ]
