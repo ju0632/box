@@ -4,31 +4,35 @@
     "urls": [
         {
             "url": "https://神器每日推送.tk/pz.json",
-            "name": "🐭神器推送"
+            "name": "🐭神器推送",
+            "time": "2022-10-23 17:41:30"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐆云星家庭"
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星_家庭",
+            "time": "2022-10-23 17:41:49"
             //家庭版纯绿色，电影电视剧综艺等
             //公众号【云星日记】
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "🐟云星哔哩"
-            //哔哩套餐/演唱会/戏曲/学堂等
-            //公众号【云星日记】
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐅云星阿里"
+            "url": "https://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "云星_阿里",
+            "time": "2022-10-23 17:41:57"
             //阿里套餐/推送磁力小纸条等  
             //公众号【云星日记】
         },
         {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "云星_哔哩",
+            "time": "2022-10-23 17:42:04"
+            //哔哩套餐/演唱会/戏曲/学堂等
+            //公众号【云星日记】
+        },
+        {
             "url": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt",
-            "name": "涤灵苑"
+            "name": "涤灵苑",
+            "time": "2022-10-23 17:42:08"
             //公众号【涤灵苑】
         }
-
     ]
 }
