@@ -41,8 +41,11 @@
         {
             "url": "https://0a.fit/X000",
             //"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            //"url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
-            "name": "👣0000"
+            "name": "👣000"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
+            "name": "👣999"
         },
         {
             "url": "https://0a.fit/7777",
@@ -170,10 +173,6 @@
         {
             "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
             "name": "白嫖"
-        },
-        {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/999.m3u8",
-            "name": "线路42"
         },
         {
             "url": "https://raw.fastgit.org/hjcmcn/z/main/16.json",
@@ -321,12 +320,10 @@
         {
             "url": "http://mtw.so/6cfhxt",
             "name": "suanjin",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://s.nxw.so/vip",
             "name": "💍自用1",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://c.nxw.so/6Jvi4",
@@ -335,7 +332,6 @@
         {
             "url": "https://84k.cn/tvmao",
             "name": "💍自用2",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "https://0a.fit/自用",
@@ -373,7 +369,6 @@
         {
             "url": "http://52bsj.vip:98/9c",
             "name": "💍自用3",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://52bsj.vip:98/wuai",
@@ -586,12 +581,10 @@
         {
             "url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
             "name": "wlyzh88",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "https://gitea.com/wlyzh88/MV/raw/branch/master/MV.json",
             "name": "wlyzh88MV",
-            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "https://gitee.com/jjjsndjdjjjjd/tv-storage/raw/master/tv.txt",
