@@ -4,13 +4,15 @@
     "urls": [
         //复刻_CH猫友
         {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_1.json",
             "name": "🐧复刻_CH猫友",
-            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_1.json"
+            "time": "2022-10-23 18:01:21"
         },
         //复刻_Yoursmile
         {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_2.json",
             "name": "🐧复刻_Yoursmile",
-            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_2.json"
+            "time": "2022-10-23 18:01:34"
         }
     ]
 }
