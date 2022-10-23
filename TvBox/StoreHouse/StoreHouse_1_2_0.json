@@ -1,6 +1,7 @@
 //StoreHouse_1网络收集_2聚合资源_0未分类_
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
+    //1_1_0
     "selected": [
         //StoreHouse_1网络收集_1精选资源_
         //评分_8长期维护
@@ -79,6 +80,32 @@
             "time": "2022-10-23 15:49:40"
         }
     ],
+    //1_1_1
+    "PythonBox": [
+        //评分_8长期维护
+        {
+            "url": "https://www.xueximeng.com/tvbox/py.json",
+            "name": "🧑‍🔧PY央视大全",
+            "time": "2022-10-23 15:51:15"
+        },
+        {
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
+            "name": "🤖Py最新大全",
+            "time": "2022-10-23 15:51:18"
+        },
+        {
+            //"url": "http://43.139.29.179:5705/config/2",
+            "url": "http://101.34.67.237/config/2",
+            "name": "🧑‍🔧道长_小雅",
+            "time": "2022-10-23 15:51:33"
+        },
+        {
+            "url": "http://43.139.29.179:5705/config/1",
+            "name": "🧑‍🔧道长_线路1",
+            "time": "2022-10-23 15:52:07"
+        }
+    ],
+    //1_2_0
     "urls": [
         //StoreHouse_1网络收集_2聚合资源_
         //评分_7公云🤖
@@ -475,8 +502,9 @@
         //评分_1反爬
         //评分_0未分类
     ],
-    //StoreHouse_1网络收集_3公众号资源_
+    //1_3_0
     "WX_MP": [
+        //StoreHouse_1网络收集_3公众号资源_
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🧑‍🔧神器推送",
@@ -510,9 +538,10 @@
             //公众号【涤灵苑】
         }
     ],
-    //StoreHouse_1网络收集_4黄色资源_
+    //1_4_0
     //NSFW
     "NSFW": [
+        //StoreHouse_1网络收集_4黄色资源_
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "🦅影阁C",
@@ -565,11 +594,6 @@
             "time": "2022-10-23 17:42:49"
         },
         {
-            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
-            "name": "✍️Github/zhanghong1983_iqiqgr",
-            "time": "2022-10-23 17:42:52"
-        },
-        {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json",
             "name": "🤖agit.ai/guot54/PRO",
             "time": "2022-10-23 17:42:56"
@@ -609,6 +633,11 @@
     //NSFW_删库
     "NSFW_Del": [
         {
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+            "name": "✍️Github/zhanghong1983_iqiqgr",
+            "time": "2022-10-23 17:42:52"
+        },
+        {
             "url": "http://api.xiaoz.fit/18.json",
             "name": "🔗飞机9",
             "time": "2022-10-23 17:43:00"
@@ -637,6 +666,67 @@
             "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
             "name": "💪Gitea/18+",
             "time": "2022-10-23 17:48:20"
+        }
+    ],
+    //5_1_0
+    "JuCY_Green": [
+        //StoreHouse_5自建资源_1绿色资源_0未分类_
+        //复刻_CH猫友
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_1.json",
+            "name": "🐧复刻_CH猫友",
+            "time": "2022-10-23 18:01:21"
+        },
+        //复刻_Yoursmile
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_1_0_2.json",
+            "name": "🐧复刻_Yoursmile",
+            "time": "2022-10-23 18:01:34"
+        }
+    ],
+    //5_1_1
+    "JuCY_Python": [
+        //StoreHouse_5自建资源_1绿色资源_1自建Py源_
+        //Py_🐧drpy腾讯
+        {
+            "url": "http://106.53.231.156:5705/config/2",
+            "name": "🐧drpy腾讯",
+            "time": "2022-10-23 18:05:46"
+        },
+        //Py_🐧drpy_groom
+        {
+            "url": "http://43.200.117.188:58283/config/2",
+            "name": "🐧drpy_groom",
+            "time": "2022-10-23 18:05:43"
+        }
+    ],
+    //5_9_0
+    "JuCY_Yellow": [
+        //StoreHouse_5自建资源_9黄色资源_0未分类_
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0_1.json",
+            "name": "👙🫦1",
+            "time": "2022-10-23 18:03:03"
+        },
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0_2.json",
+            "name": "👙🫦2",
+            "time": "2022-10-23 18:03:07"
+        },
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0_3.json",
+            "name": "👙🫦3",
+            "time": "2022-10-23 18:03:10"
+        },
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0_4.json",
+            "name": "👙🫦4",
+            "time": "2022-10-23 18:03:13"
+        },
+        {
+            "url": "http://tv.to51.cn/TvBox/StoreHouse/StoreHouse_5_9_0_5.json",
+            "name": "👙🫦5",
+            "time": "2022-10-23 18:03:18"
         }
     ],
     //未验证
