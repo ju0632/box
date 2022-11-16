@@ -23,6 +23,11 @@
             "url": "http://43.139.29.179:5705/config/1",
             "name": "🧑‍🔧道长_线路1",
             "time": "2022-10-23 15:52:07"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+            "name": "🧑‍🔧UndCover/PyramidStore",
+            "time": "2022-11-16 15:17:59"
         }
     ]
 }
