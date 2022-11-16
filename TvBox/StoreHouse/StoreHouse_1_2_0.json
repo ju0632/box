@@ -104,6 +104,16 @@
         //StoreHouse_1网络收集_2聚合资源_
         //评分_7公云🤖
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "✍️FongMi/CatVodSpider",
+            "time": "2022-11-16 15:09:48"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "✍️vpei/TVUrl",
+            "time": "2022-11-16 15:09:48"
+        },
+        {
             "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
             "name": "🍘gitcode/kuukry",
             "time": "2022-10-23 15:53:07"
